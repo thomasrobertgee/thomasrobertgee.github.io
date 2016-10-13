@@ -8,7 +8,7 @@ body {
   min-height: 100vh; /* 100% of the screen height */
   background-position: 50% 50%; /* Center X and Y dead centre */
   background-size: auto 110%; /* Scale height 100%, width is then automatic */
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
 }
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
