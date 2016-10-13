@@ -21,7 +21,7 @@ I tried to keep the code as minimal as possible, avoiding external plugins and f
 with the hover style, as you will see in the first three sections of the page.
 
 ### External Links
-Whilst adding links to my LinkedIn and Github seemed necessary for potential employers, I also added my Twitter and Pinterest to show viewers more about my personality and my interests.
+Whilst adding links to my LinkedIn and Github seemed necessary for potential employers, I also added my Twitter and Pinterest to show viewers more about my personality and my interests. I will eventually add a Codepen link once I have some projects in there.
 
 
 1. All icons in the first section are links to my social media accounts. 
