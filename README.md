@@ -19,6 +19,8 @@ I chose a light, friendly, vector themed site as it reflects my easygoing person
 I tried to keep the code as minimal as possible, avoiding external plugins and frameworks where possible. I had alot of fun
 with the hover style, as you will see in the first three sections of the page.
 
+No Bootstrap!
+
 ### External Links
 Whilst adding links to my LinkedIn and Github seemed necessary for potential employers, I also added my Twitter and Pinterest to show viewers more about my personality and my interests. I will eventually add a Codepen link once I have some projects in there.
 
