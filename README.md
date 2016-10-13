@@ -6,8 +6,7 @@ I have enjoyed this project and am proud of the outcome as it represents who I a
 Further changes will be constantly made to the site as my skills develop and design tastes change.
 
 ### Design Choice
-I chose a light, friendly, vector themed site as it reflects my easygoing personality. I wanted to keep the site as minimal 
-as possible to ensure viewers aren't overwhelmed by both content and imagery.
+I chose a light, friendly, vector themed site as it reflects my easygoing personality. I wanted to keep the site minimalistic to ensure viewers aren't overwhelmed by both content and imagery.
 
 ### Sources
 - Background images - [Minimal Wallpapers](http://minimal-wallpapers.com)
