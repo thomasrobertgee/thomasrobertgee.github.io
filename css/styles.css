@@ -213,9 +213,9 @@ a.contact:hover {
 
 }
 
-/*.krem-image:hover {
-  color: white;
-}*/
+.krem-image:hover {
+  /*color: white;*/
+}
 
 span.k:hover {
   color: white;
