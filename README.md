@@ -31,6 +31,10 @@ link to a great track I like to code to! Check it out.
 3. All the letters of 'Krem Clothing' link to the same site.
 4. No links in section 4, not yet anyways. Stay tuned!
 
+### Design Drafts
+![Draft 1](https://github.com/thomasrobertgee/thomasrobertgee.github.io/images/draft1.JPG "Draft 1")
+![Draft 2](https://github.com/thomasrobertgee/thomasrobertgee.github.io/images/draft2.JPG "Draft 2")
+
 ### Process
 1. I first drew up a rough draft of the framwork, seperating the different sections for the website. I knew from day one 
 that I wanted it to be a single page, this is cleaner for mobile viewing.
