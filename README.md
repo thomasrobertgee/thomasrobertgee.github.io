@@ -22,6 +22,8 @@ with the hover style, as you will see in the first three sections of the page.
 
 ### External Links
 Whilst adding links to my LinkedIn and Github seemed necessary for potential employers, I also added my Twitter and Pinterest to show viewers more about my personality and my interests.
+
+
 1. All icons in the first section are links to my social media accounts. 
 2. In the bio section the boxes and underlines are all links of some sort. The Krem Clothing box links to my online retail
 label, the Resume box opens up my resume in a pdf in a new tab, clicking on my email address will open the default email client
