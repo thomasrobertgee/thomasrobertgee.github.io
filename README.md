@@ -1,6 +1,9 @@
 # My Portfolio
 
 ## Summary
+
+[Go to site](https://thomasrobertgee.github.io)
+
 This portfolio website was designed for the final week project of term 1 at Coder Factory Academy. 
 I have enjoyed this project and am proud of the outcome as it represents who I am and how I would like to be viewed.
 Further changes will be constantly made to the site as my skills develop and design tastes change.
