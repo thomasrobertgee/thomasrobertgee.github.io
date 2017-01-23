@@ -145,12 +145,12 @@ h5 {
   margin-bottom: 0;
 }
 
-a.luke {
+a.link {
   text-decoration: underline;
   color: white;
 }
 
-a.luke:hover {
+a.link:hover {
   color: #D4574B;
 }
 
